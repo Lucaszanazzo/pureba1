@@ -200,6 +200,12 @@
             "expression": "CALCULATE(SUM(base_soc[venta_trimestral]), base_soc[tipo_cliente] == \"Cliente Oro\" && base_soc[nombre_suc] == \"OAX\")",
             "formatString": "\\$#,0;(\\$#,0);\\$#,0",
             "lineageTag": "eb1d75f9-9567-4f14-a87e-e914bae0c15e"
+          },
+          {
+            "name": "Medida",
+            "expression": "COUNTROWS(base_soc)",
+            "formatString": "0",
+            "lineageTag": "d24c4ec1-c70a-4038-a6ff-ee075e66be43"
           }
         ],
         "partitions": [
