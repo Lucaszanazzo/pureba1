@@ -43,15 +43,6 @@
           "x": 23.08,
           "y": 487.69,
           "z": 1000.00
-        },
-        {
-          "config": "{\"name\":\"fbdc8aa859e5e2a7681b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":418.46153846153845,\"y\":487.6923076923077,\"z\":2000,\"width\":353.8461538461538,\"height\":190.76923076923077}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"base_soc.VT_ClOro_OAX\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"b\",\"Entity\":\"base_soc\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"VT_ClOro_OAX\"},\"Name\":\"base_soc.VT_ClOro_OAX\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"b\"}},\"Property\":\"VT_ClOro_OAX\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"labelDisplayUnits\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}}}}]}}}",
-          "filters": "[]",
-          "height": 190.77,
-          "width": 353.85,
-          "x": 418.46,
-          "y": 487.69,
-          "z": 2000.00
         }
       ],
       "width": 1280.00
